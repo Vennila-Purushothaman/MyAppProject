@@ -1,7 +1,7 @@
 package com.java;
 
 
-public Class SampleTest {
+public class SampleTest {
 
 	public static void main(String[] args) {
 
